@@ -1,0 +1,27 @@
+{
+  "name": "mongoose-blogging-app",
+  "version": "1.0.0",
+  "description": "Thinkful challenge - bloggin app using Mongoose",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbradf2/mongoose-blogging-app.git"
+  },
+  "keywords": [
+    "Thinkful",
+    "Mongoose",
+    "Mongo",
+    "mLab",
+    "CRUD",
+    "Heroku"
+  ],
+  "author": "Nicole E. Bradford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nbradf2/mongoose-blogging-app/issues"
+  },
+  "homepage": "https://github.com/nbradf2/mongoose-blogging-app#readme"
+}
